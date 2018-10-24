@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab6</string>
+    <string name="toSecond">Open Second Activity</string>
+    <string name="toThird">Open Third Activity</string>
+    <string name="secondText">This is Second Activity</string>
+    <string name="thirdText">This is Third Activity</string>
+    <string name="back">Back</string>
+</resources>
